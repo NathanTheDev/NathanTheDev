@@ -1,4 +1,4 @@
-# 🏋🏻‍♂️ Nathan Smith
+# Nathan Smith
 **`Software Engineer (Ai)`**\
 Hi I'm Nathan, a software engineer with a focus for full stack development, passionate about developing and collaborating on well documented and maintained technologies. I am currently a third year at UNSW studying Computer Science (Artificial Intelligence) and Economics looking for new and interesting opportunities! :)
 
